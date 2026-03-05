@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAEA,yBACE,6BACE,uB","sources":["src://tavern_helper_template/src/手机角色状态栏/App.vue"],"sourcesContent":["\n/* 小屏下稍微压缩一下整体高度和圆角，使其在消息楼层内更紧凑 */\n@media (max-width: 480px) {\n  .w-full > div {\n    border-radius: 1.75rem;\n  }\n}\n"],"names":[],"sourceRoot":""}
